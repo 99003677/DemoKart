@@ -1,5 +1,24 @@
 # DemoKart
 
+# High Level Requirements:
+![Use Case Diagram](.vs/DemoKart/v16/UseCase_draft1.png)(.vs/DemoKart/v16/lld_cd.PNG)
+
+  1. Use Case Diagram will only have one actor i.e. Customer/User as
+  2. User can login using username and password if he/she is registered or register if it is a first time login.
+  3. User can browse various products based on categories.
+  4. User can add/edit item in cart.
+  5. After shopping is done, user can checkout and provide what kind of payment he/she wants.
+
+# Low Level Requirements:
+![Classs Diagram](.vs/DemoKart/v16/lld_cd.PNG)
+
+  1.Product: It list the available products and attributes are Product_id, Product_type
+  2.User: Performs operations like add product to the cart, Placing Order, Bill payment and attributes are User_id, User_Name, Password, Mobile, Email, Address.
+  3.Order: specifies the quantity of the product and attributes are Order_id, Order_Type, Customer_id, Customer_Name.
+  4.Payment:  it can be made in the form of cash and card and attributes are id, Price, Num_of_products.
+  5.Cart: Contains the products which the user added to it and attributes are id,price,total.
+  6.Category:  lists type of products and attributes are Type of product.
+
 # SWOT Analysis:
 ## Strength
 1. Saves time by reducing physical movement.
