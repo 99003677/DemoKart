@@ -11,12 +11,13 @@
 
 # Low Level Requirements:
 ![Classs Diagram](.vs/DemoKart/v16/lld_cd.PNG)
+
   1.Product: It list the available products and attributes are Product_id, Product_type
-  2.User: Performs operations like add product to the cart, Placing Order, Bill payment and attributes are User_id, User_Name, Password, Mobile, Email, Address
-  3.Order: specifies the quantity of the product and attributes are Order_id, Order_Type, Customer_id, Customer_Name
-  4.Payment:  it can be made in the form of cash and card and attributes are id, Price, Num_of_products
-  5.Cart: Contains the products which the user added to it and attributes are id,price,total
-  6.Category:  lists type of products and attributes are Type of product
+  2.User: Performs operations like add product to the cart, Placing Order, Bill payment and attributes are User_id, User_Name, Password, Mobile, Email, Address.
+  3.Order: specifies the quantity of the product and attributes are Order_id, Order_Type, Customer_id, Customer_Name.
+  4.Payment:  it can be made in the form of cash and card and attributes are id, Price, Num_of_products.
+  5.Cart: Contains the products which the user added to it and attributes are id,price,total.
+  6.Category:  lists type of products and attributes are Type of product.
 
 # SWOT Analysis:
 ## Strength
