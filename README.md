@@ -13,9 +13,7 @@
 ![Classs Diagram](.vs/DemoKart/v16/lld_cd.PNG)
 
   1. Product: It list the available products and attributes are Product_id, Product_type
-  
   2. User: Performs operations like add product to the cart, Placing Order, Bill payment and attributes are User_id, User_Name, Password, Mobile, Email, Address.
-   
   3. Order: specifies the quantity of the product and attributes are Order_id, Order_Type, Customer_id, Customer_Name.
   
   4. Payment:  it can be made in the form of cash and card and attributes are id, Price, Num_of_products.
