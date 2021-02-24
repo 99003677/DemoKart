@@ -1,0 +1,16 @@
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\DemoKartBLTests.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\DemoKartBLTests.pdb
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\DemoKartBL.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\DemoKartBL.pdb
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\obj\Debug\DemoKartBLTests.csprojAssemblyReference.cache
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\obj\Debug\DemoKartBLTests.csproj.CoreCompileInputs.cache
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\obj\Debug\DemoKartBLTests.csproj.CopyComplete
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\obj\Debug\DemoKartBLTests.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBLTests\obj\Debug\DemoKartBLTests.pdb

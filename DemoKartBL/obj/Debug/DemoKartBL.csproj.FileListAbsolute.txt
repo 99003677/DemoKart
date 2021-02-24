@@ -1,0 +1,6 @@
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.pdb
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csprojAssemblyReference.cache
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csproj.CoreCompileInputs.cache
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.dll
+D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.pdb
