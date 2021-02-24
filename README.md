@@ -1,5 +1,13 @@
 # DemoKart
 
+# High Level Requirements:
+
+  1. Use Case Diagram will only have one actor i.e. Customer/User as
+  2. User can login using username and password if he/she is registered or register if it is a first time login.
+  3. User can browse various products based on categories.
+  4. User can add/edit item in cart.
+  5. After shopping is done, user can checkout and provide what kind of payment he/she wants.
+
 # SWOT Analysis:
 ## Strength
 1. Saves time by reducing physical movement.
