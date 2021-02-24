@@ -8,5 +8,8 @@ namespace DemoKartBL
 {
     class Payment
     {
+        void PaymentMode(){
+            
+        }
     }
 }
