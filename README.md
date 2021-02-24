@@ -1,4 +1,4 @@
-# MiniProject_CSharp
+# DemoKart
 
 # SWOT Analysis:
 ## Strength
