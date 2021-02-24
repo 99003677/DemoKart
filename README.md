@@ -1,6 +1,7 @@
 # DemoKart
 
 # High Level Requirements:
+![Use Case Diagram](.vs/DemoKart/v16/UseCase_draft1.png)
 
   1. Use Case Diagram will only have one actor i.e. Customer/User as
   2. User can login using username and password if he/she is registered or register if it is a first time login.
