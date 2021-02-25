@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoKartBL
 {
-    class Payment
+    public class Payment
     {
         Cart cart  = new Cart();
         int i=1000;

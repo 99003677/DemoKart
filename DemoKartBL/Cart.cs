@@ -15,9 +15,9 @@ namespace DemoKartBL
         //Category category = new Category();
         public void AddToCart(int prodid, int quan)
         {
-            foreach (Product prod in Category.productList)
+            foreach (Product prod in Program.productList)
             {
-                if (prod.pid == prodid) 
+                if (prodid==prod.pid) 
                 {
                     cartList.Add(prod);
                     quantity.Add(quan);
@@ -39,7 +39,7 @@ namespace DemoKartBL
                     }
                     else
                     {
-
+                        continue;
                     }
                 }
             }

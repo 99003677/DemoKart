@@ -9,17 +9,18 @@ namespace DemoKartBL
 
     public class Product 
     {
-        public int pid { get; set; }
-        public string pname { get; set; }
+        public int pid;
+        public string pname;
         //public int quantity { get; set; }
-        public double price { get; set; }
-        public Category category = new Category();
-        
+        public double price;
+        public Category category;
+        //public Product() { }
         
 
         
         public Product(int categoryid,int pid,string pname,double price)
         {
+            category = new Category();
             this.pid = pid;
             this.pname = pname;
             //this.quantity = quantity;
