@@ -12,17 +12,25 @@ namespace DemoKartBL
         int i=1000;
         double res;
         public double finalTotal;
-        void PaymentMode(int choice,string cardnumber, string name, string depends_on_choice){
+        public string invoice_message;
+        DateTime thisDay = DateTime.Today;
+        public string PaymentMode(int choice,string cardnumber, string name, string depends_on_choice){
             if (choice == 1)
             {
                 res = creditCardPay(cardnumber, name, depends_on_choice);
+                invoice_message = "Your account has been debited with "+res+"\n Invoice number : DK" + i + thisDay.ToString("d");
+                i++;
+                return invoice_message;
             }
             else if (choice == 2)
             {
                 res = debitCardPay(cardnumber, name, depends_on_choice);
+                invoice_message = "Your account has been debited with " + res + "\n Invoice number : DK" + i + thisDay.ToString("d");
+                i++;
+                return invoice_message;
             }
-            else { 
-                
+            else {
+                return "Invalid choice.\n";
             }
         }
         double creditCardPay(string cardnumber, string name, string date){
