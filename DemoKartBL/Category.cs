@@ -8,7 +8,7 @@ namespace DemoKartBL
 {
     public class Category
     {
-        static List<Product> productList = new List<Product>();
+        public static List<Product> productList = new List<Product>();
         public  int categoryId;
         public string categoryName;
 
