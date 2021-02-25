@@ -7,21 +7,24 @@ using System.Threading.Tasks;
 namespace DemoKartBL
 {
 
-    class Product : Category
+    public class Product 
     {
         public int pid { get; set; }
-        public String pname { get; set; }
+        public string pname { get; set; }
         //public int quantity { get; set; }
         public double price { get; set; }
+        public Category category = new Category();
+        
+        
 
         
-        public Product(int categoryid,int pid,String pname,double price)
+        public Product(int categoryid,int pid,string pname,double price)
         {
             this.pid = pid;
             this.pname = pname;
             //this.quantity = quantity;
             this.price = price;
-            this.categoryId = categoryid;
+            this.category.categoryId = categoryid;
         }
         
 

@@ -12,21 +12,21 @@ namespace DemoKartBL
         static List<Product> cartList = new List<Product>();
         static List<int> quantity = new List<int>();
         public double cartTotal=0;
-        Category category = new Category();
-        public void AddToCart(Product prod, int quan,int choice)
+        //Category category = new Category();
+        public void AddToCart(Product prod, int quan)
         {
             cartList.Add(prod);
             quantity.Add(quan);
-            if(choice==1){
+            if(prod.category.categoryId==1){
                 cartTotal = cartTotal+(prod.price*quan)+(prod.price*quan*0.18);
             }
-            else if(choice==2){
+            else if(prod.category.categoryId == 2){
                 cartTotal = cartTotal+(prod.price*quan)+(prod.price*quan*0.07);
             }
-            else if (choice==3){
+            else if (prod.category.categoryId == 3){
                 cartTotal = cartTotal+(prod.price*quan)+(prod.price*quan*0.04);
             }
-            else if(choice==4){
+            else if(prod.category.categoryId == 4){
                 cartTotal = cartTotal+(prod.price*quan)+(prod.price*quan*0.18);
             }
             else{
