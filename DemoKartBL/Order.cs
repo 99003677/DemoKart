@@ -17,7 +17,6 @@ namespace DemoKartBL
         {
             Address = Addr;
             pincode = pcode;
-
             name = Name;
             pno = Pno;
             return Address + "\n" + pincode + "\n" + name + "\n" + pno;
