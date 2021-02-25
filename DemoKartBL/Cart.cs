@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace DemoKartBL
 {
     
@@ -11,11 +12,11 @@ namespace DemoKartBL
     {
         public static List<Product> cartList = new List<Product>();
         public static List<int> quantity = new List<int>();
-        public double cartTotal=0;
+        public static double cartTotal;
         //Category category = new Category();
         public void AddToCart(int prodid, int quan)
         {
-            foreach (Product prod in Program.productList)
+            foreach (Product prod in Product.productList)
             {
                 if (prodid==prod.pid) 
                 {

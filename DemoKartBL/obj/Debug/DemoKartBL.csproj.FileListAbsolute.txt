@@ -10,3 +10,9 @@ C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\obj\Debug\DemoKartBL
 C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.dll
 C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.pdb
 C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csprojAssemblyReference.cache
+C:\Users\Whitefang\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csprojAssemblyReference.cache
+C:\Users\Whitefang\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Whitefang\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.dll
+C:\Users\Whitefang\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.pdb
+C:\Users\Whitefang\Documents\GitHub\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.dll
+C:\Users\Whitefang\Documents\GitHub\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.pdb

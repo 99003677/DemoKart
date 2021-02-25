@@ -15,9 +15,10 @@ namespace DemoKartBL
         public double price;
         public Category category;
         //public Product() { }
-        
+        public static List<Product> productList = new List<Product>();
 
-        
+
+
         public Product(int categoryid,int pid,string pname,double price)
         {
             category = new Category();
