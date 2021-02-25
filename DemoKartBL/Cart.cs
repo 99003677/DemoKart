@@ -12,7 +12,10 @@ namespace DemoKartBL
     {
         public static List<Product> cartList = new List<Product>();
         public static List<int> quantity = new List<int>();
-        public static double cartTotal;
+        //private double cartTotal;
+
+        public double cartTotal; 
+
         //Category category = new Category();
         public void AddToCart(int prodid, int quan)
         {
