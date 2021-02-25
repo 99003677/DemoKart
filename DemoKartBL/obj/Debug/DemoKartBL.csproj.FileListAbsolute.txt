@@ -4,3 +4,7 @@ D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.
 D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csproj.CoreCompileInputs.cache
 D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.dll
 D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.pdb
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csprojAssemblyReference.cache
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.dll
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.pdb

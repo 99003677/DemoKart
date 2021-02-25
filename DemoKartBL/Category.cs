@@ -12,7 +12,7 @@ namespace DemoKartBL
         static List<Product> garmentList = new List<Product>();
         static List<Product> groceryList = new List<Product>();
         static List<Product> cosmeticList = new List<Product>();
-        Category(){
+        public Category(){
             //List<Product> electronicsList = new List<Product>();
             electronicsList.Add(new Product(100,"Trimmer",800));
             electronicsList.Add(new Product(101,"Washing Machine",6000));

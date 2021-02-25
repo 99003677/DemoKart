@@ -8,3 +8,13 @@ D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartMainProgram\obj\Debug\De
 D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csproj.CopyComplete
 D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.exe
 D:\Content\ProgrammingUsingC#\DemoKart\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.pdb
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartMainProgram.exe.config
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartMainProgram.exe
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartMainProgram.pdb
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartBL.dll
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartBL.pdb
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csprojAssemblyReference.cache
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csproj.CoreCompileInputs.cache
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csproj.CopyComplete
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.exe
+C:\Users\Training\Source\Repos\99003677\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.pdb
