@@ -8,9 +8,9 @@ namespace DemoKartBL
 {
     class Order
     {
-        public String Address;
+        public String deliveryAddress;
         public int pincode;
-        public String name;
+        /*public String name;
         public int pno;
 
         public   String Orderlist(String Addr,int pcode, String Name, int Pno)
@@ -20,7 +20,7 @@ namespace DemoKartBL
             name = Name;
             pno = Pno;
             return Address + "\n" + pincode + "\n" + name + "\n" + pno;
-        }
+        }*/
 
     }
 }
