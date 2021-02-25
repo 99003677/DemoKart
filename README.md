@@ -10,7 +10,7 @@
   5. After shopping is done, user can checkout and provide what kind of payment he/she wants.
 
 # Low Level Requirements:
-![Classs Diagram](.vs/DemoKart/v16/lld_cd.PNG)
+![Classs Diagram](.vs/DemoKart/v16/classdiagram.PNG)
 
   1. Product: It list the available products and attributes are Product_id, Product_type
   2. User: Performs operations like add product to the cart, Placing Order, Bill payment and attributes are User_id, User_Name, Password, Mobile, Email, Address.
