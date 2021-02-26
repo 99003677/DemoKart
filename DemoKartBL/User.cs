@@ -9,9 +9,9 @@ namespace DemoKartBL
 {
     class User
     {
-        public String username;
-        public String password;
-        public static List<User> ul = new List<User>();
+        public String Name{get;set;}
+        public double pno{get;set;}
+       /*public static List<User> ul = new List<User>();
         public User()
         {
 
@@ -38,6 +38,13 @@ namespace DemoKartBL
                 ul.Add(new User(username, password));
                 return 0;
             }
+        }*/
+        public int Login(String Username,String Password)
+        {
+            if(Username=="user" && Password=="pass")
+                return 1;
+            else
+                return 0;
         }
 
 
