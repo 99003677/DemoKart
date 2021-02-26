@@ -42,6 +42,12 @@ namespace Productcart
                 Cart cart_main = new Cart();
                 Payment pay = new Payment();
                 int choice_category, i = 0;
+                User obj=new User();
+                Console.WriteLine("Enter username");
+                String Username=Console.ReadLine();
+                Console.WriteLine("Enter Password");
+                String Password=Console.ReadLine();
+                int value=obj.Login(Username,Password);
                 Console.WriteLine("Select category : \n");
                 Console.WriteLine("1.Electronics\n2.Apparels\n3.Groceries\n4.Cosmetics\n5.View Cart\n0.Exit\n");
                 choice_category = Convert.ToInt32(Console.ReadLine());
